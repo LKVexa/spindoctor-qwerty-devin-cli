@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spindoctor-qwerty",
+  "version": "1.1.0",
+  "description": "Devin CLI plugin for the SpinDoctor 3.1.2 quantum-circuit SIMULATOR: a skill (/spindoctor-qwerty:spindoctor-qwerty), a triggered rule, a custom subagent and a local MCP server with six tools; 1-298 logical qubits, 241 presets, q.folder, theory testing, TXT/PDF/JSON/CSV reports. Classical FP64 simulation, not a quantum computer.",
+  "author": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com",
+    "url": "https://github.com/LKVexa"
+  },
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-devin-cli",
+  "repository": "https://github.com/LKVexa/spindoctor-qwerty-devin-cli",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "quantum",
+    "quantum-circuit",
+    "simulator",
+    "spindoctor",
+    "devin",
+    "devin-cli",
+    "mcp",
+    "qwerty"
+  ]
+}
